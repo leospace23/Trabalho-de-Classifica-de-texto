@@ -1,1 +1,1 @@
-# Trabalho-de-Classifica-de-texto
+# Trabalho-de-Classificação-de-texto
